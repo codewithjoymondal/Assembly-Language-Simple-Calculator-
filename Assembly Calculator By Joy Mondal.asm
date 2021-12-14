@@ -1,4 +1,6 @@
 ;Joy Mondal .I Am A Computer Science Engineer  
+;This Is Assembly-Simple-Calculator
+
 
 
 .Model Small
@@ -18,6 +20,8 @@ JOYMONDAL10 DB 10,13,10,13,'The Number is EVEN. $'
 JOYMONDAL11 DB 10,13,10,13,'1st number is greater than 2nd.$'
 JOYMONDAL12 DB 10,13,10,13,'1st number is less than 2nd.$'
 JOYMONDAL13 DB 10,13,10,13,'Two Numbers Are Equal. $'
+JOYMONDAL14 DB 10,13,10,13,'#### My Github: https://github.com/codewithjoymondal #### $'   
+
 JOYMONDAL14 DB 10,13,10,13,'                  **** I Am Joy Mondal .I special Thank You  For Test My Term Paper Project **** $'   
 
 .Code
